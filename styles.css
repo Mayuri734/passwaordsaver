@@ -1,0 +1,34 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #3ad295;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Customize further as per your design */
+/* styles.css */
+.container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+img {
+    width: 100px; /* Adjust size as needed */
+    height: auto;
+    border-radius: 50%; /* Example of styling */
+}
